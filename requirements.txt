@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+PyPDF2
+groq
+reportlab
+python-dotenv
+matplotlib
